@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duke on Young&#39;s Blog</title>
+    <link>https://github-young.github.io/blog/categories/Duke/</link>
+    <description>Recent content in Duke on Young&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 27 Dec 2017 16:44:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://github-young.github.io/blog/categories/Duke/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DukeMemory</title>
+      <link>https://github-young.github.io/blog/post/DukeMemory/</link>
+      <pubDate>Wed, 27 Dec 2017 16:44:01 +0000</pubDate>
+      
+      <guid>https://github-young.github.io/blog/post/DukeMemory/</guid>
+      <description>&lt;p&gt;杜克项目结束了，把能想到的一些记在这里。&lt;/p&gt;
+
+&lt;h2 id=&#34;很久以前的几句话&#34;&gt;很久以前的几句话：&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;一定要选Independent Study&lt;/strong&gt;，不然导师很难找(欢迎明年的同学找FEL的Wu教授)&lt;/li&gt;
+&lt;li&gt;暑假一定要预习量子力学(教材：C-TDL)&lt;/li&gt;
+&lt;li&gt;记得带指甲剪和剪刀&lt;/li&gt;
+&lt;li&gt;一位不愿透露姓名的群主：如果你很浪，那一点都不愁foodpoints花不完&lt;/li&gt;
+&lt;li&gt;zcy：一定要选五星级酒店，300swift宿舍(我：在中校区)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>3DPrintAtDuke</title>
+      <link>https://github-young.github.io/blog/post/3DPrintAtDuke/</link>
+      <pubDate>Fri, 10 Nov 2017 21:45:00 +0000</pubDate>
+      
+      <guid>https://github-young.github.io/blog/post/3DPrintAtDuke/</guid>
+      <description>&lt;h2 id=&#34;简介如何使用duke的3d打印系统&#34;&gt;简介如何使用Duke的3D打印系统&lt;/h2&gt;
+
+&lt;p&gt;3D打印需要模型和打印机，Duke为我们提供了免费的打印机时和打印材料，我们需要提供模型。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Inauguration</title>
+      <link>https://github-young.github.io/blog/post/inauguration/</link>
+      <pubDate>Fri, 06 Oct 2017 01:01:46 +0000</pubDate>
+      
+      <guid>https://github-young.github.io/blog/post/inauguration/</guid>
+      <description>New President! 今天是杜克第10任校长Vincent E. Price的就职典礼， 本来觉得和我没什么关系，但是晚上有自助晚宴，吃得很舒服，于是就觉得和我有那么</description>
+    </item>
+    
+    <item>
+      <title>中秋快乐</title>
+      <link>https://github-young.github.io/blog/post/happymidautumn/</link>
+      <pubDate>Tue, 03 Oct 2017 22:30:51 +0000</pubDate>
+      
+      <guid>https://github-young.github.io/blog/post/happymidautumn/</guid>
+      <description>中秋快乐！ 这是在美国过的国庆和中秋。在国内的中秋并没有想起来吃旁海，现在在国外突然想吃，甚至超过月饼。可能是旁海比月饼贵吧。</description>
+    </item>
+    
+  </channel>
+</rss>
