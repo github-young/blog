@@ -26,7 +26,7 @@
 体验 进入系统感觉很漂亮，其次一个惊喜就是ubuntu上死活装不了的指纹识别竟然是开箱即用。当然最有吸引力的就是deepin的qq、微信等wine软件，使用体验不错，特别感谢deepin的努力解决了这个痛点。
 当然，问题总是有的。我发现我在win10和ubuntu1804上使用正常的 Fn&#43;左右方向键 在这里就不行，但是其它的 Fn&#43;功能键 是可以的。最终没能完美解决，我把 Caps_Lock&#43;方向键 映射成了 Home 和 End 。另外，在别的系统可以校园网接网线直接访问谷歌，这里也不行，折腾了两天，最后发现换成tuna的dns就解决了。
 总结 在Linux的范围里，从生产的角度，deepin不一定是最好的，但是从生活的角度，对于中国人我觉得是最好的。我准备放假给父母试用一下。
-后记 回家给父母试了，以没有Office被一票否决，1551&amp;hellip;
+ 后记 回家给父母试了，以没有Office被一票否决，1551&amp;hellip;
 </content>
     </entry>
     
@@ -43,8 +43,7 @@
 TL; DR 这一年简单来讲可以概括为：
 mylife checkout -b 保研 mylife checkout -b 申请 mylife merge 保研 mylife add . mylife commit -m &amp;#34;纠结但精彩的一年&amp;#34; 说详细点 本来打了一堆话，看着觉得有点消极，算了&amp;hellip;
 保研也好，申请也好，哪怕是父母之命的公务员也好，都过去了。回头看看这些经历挺有趣的，人生就是充满不确定性才有意思，相比之下我之前的生活太千篇一律了。
-还有了一次 幽默的短暂的初恋，是这一年的生活最大的亮点了吧。虽然幽默，但是我因此改变不少呢。
-展望 我在开学初列了一个Senior Year Resolution，除了脱单，列表上的其它items希望在毕业前一一实现。
+还有了一次 幽默的短暂的初恋，是这一年的生活最大的亮点了吧。虽然幽默，但是我因此改变不少呢。展望 我在开学初列了一个Senior Year Resolution，除了脱单，列表上的其它items希望在毕业前一一实现。
 由于早睡压制，不得不push。
 来年また！(是的，今年还学了日语)
 </content>
@@ -59,7 +58,7 @@ mylife checkout -b 保研 mylife checkout -b 申请 mylife merge 保研 mylife a
         <tags>
           <tag>夏令营</tag>
         </tags>
-        <content type="html">  这是我2018年参加各个学校保研/申请夏令营的经历。
+        <content type="html"> 这是我2018年参加各个学校保研/申请夏令营的经历。
 清华叉院(2018年6月2-3日) 清华的夏令营分为笔试和面试两部分。笔试主要考与本科学过的四大力学，偏向量子力学。
 笔试回忆 2018年的笔试试题一共9题，共100分。
  6个原子的一维单原子链，问振动模式数和最低的振动频率。 考查角动量的相加、核自旋；精细结构和超精细结构；Zeeman效应。 估算5GHz下超导量子计算机的工作温度；解释为什么可见光量子计算机可以在常温下工作。 Maxwell Demon的错误之处。 给定波函数$\psi(x)$，求Hamiltonian中的势能V。 同轴电缆的电感和电容。 TEM(???)。 Abbe分辨率极限。 光子气体的分布函数，求总光子数和能量密度。  笔试过了，等一下午，晚上会公布通过笔试的人的名单。
@@ -79,7 +78,7 @@ PS. 建议不管出国还是保研都要套磁。2018年叉院的名额非常少
 香港科技大学物理系* 这个比较特殊。我没来得及报名港科的夏令营，但是心里想着反正要去一次香港参加港中文的夏令营，能不能直接联系教授呢？于是就给一个教授发了邮件，问问他能不能在不经过夏令营的情况下给出offer。Three Weeks Later&amp;hellip;他回复了邮件，并打电话进行了简单的了解。于是我在参加港中文夏令营的时候抽空去他的实验室参观了一下，但是当时他在上海出差，又没见面谈话。结果第2天他打了个电话，问了我对实验室的看法和以后的计划，就突然给了我offer，并且他知道我在参加港中文的夏令营且还没面试，所以要求当天晚上给出答复是否接受。看来至少港科是教授有极大的决定权，即弱committe制。
 后记 结果：THU被拒，PKU、SJTU、NJU、CUHK和HKUST给了offer。
 也许我参加的这些保研夏令营都不会派上用场了，我选择了港科。
-（纯粹个人感受）物理专业的，能出国还是尽量出国。不要把出国想象得有多难，其实是我们院保研太容易造成的错觉。不过无论是保研还是出国，都尽量早做决定，不要像我一样到了暑假末才临时决定放弃保研，之前做了很多无用功，还是挺遗憾的。
+ （纯粹个人感受）物理专业的，能出国还是尽量出国。不要把出国想象得有多难，其实是我们院保研太容易造成的错觉。不过无论是保研还是出国，都尽量早做决定，不要像我一样到了暑假末才临时决定放弃保研，之前做了很多无用功，还是挺遗憾的。
 </content>
     </entry>
     
@@ -120,17 +119,17 @@ Duke给每个学生提供了3D打印的资源，大家可以薅资本主义的�
         <content type="html"> 简介如何使用Duke的3D打印系统 3D打印需要模型和打印机，Duke为我们提供了免费的打印机时和打印材料，我们需要提供模型。
 模型 可以自己制作模型，也可以下载别人做好的模型。自己制作模型可以选择Google的SketchUp，简单易于上手；而ECE230L的Lab section是要求用AutoCAD，不过课上TA会教你使用(真是step by step)。若不想自己做，就可以直接用现成的。
 Duke打印机使用的模型文件扩展名为 .stl，可以直接谷歌 “3d print model” &#43; 你要的模型名字，比如 “Rick and Morty 3d print model”；也可以到一些专门的3d模型网站，如yeggi、thingiverse搜索。找到以后下载.stl文件。
-打印  打开Duke的3D打印网站，点击左上角Sign In，选择SSO，选择Duke University，然后使用你的Duke NetID登录。
- 初次登录进去，会弹出一个上传文件的框，你可以直接上传文件，也可以稍后上传。当你想上传文件时，推荐选择Project，而不是file。
- 在My Project页面，右侧点击Add Files，选择Project，然后输入一个项目名字，比如test，然后点choose file，上传你的.stl文件，比如test.stl。如图(1)。
- 上传完毕后，点开test这个项目，这是里面有一个test.stl文件。后面的都是重点：
- 先点击test.stl文件最右边的三个点的按钮，选择弹出页面中的第一个：“STL Editor”，这就打开了.stl文件的编辑器。可以对模型进行调整，以适应打印。 在STL Editor中，可以用右键旋转观察角度，按住滚轮移动模型。Editor左上角有Move、Rotate、Scale三个选项，可以旋转、缩放。记住两点：  打印机的尺寸大概为20x20x20cm，一定要查看文件的Scale是不是符合 不管什么操作后，保存之前一定要点一下右下角的On Bed,这是为了确保模型贴在平面上，不能悬空。   所有操作结束后就点Save。
- 保存之后等待一会，你会发现test项目里多了一个类似叫test_123456.stl的文件，这个就是你修改过的文件，然后点击这个test_123456.stl文件最右边的Slice，弹出的界面里三个参数可以不调，直接点Slice。
- 等待一会，你会发现test项目里又多了一个test_123456.gcode文件，这个就是真正用来打印的文件。点击test_123456.gcode文件最右边的Print按钮，在弹出的打印机列表里选择可以打印的打印机就可以了。如图(2)。
-记住：
- 打印之前最好先点一下“Live View”，确认打印机上是空的。 Lily开头的是东校区的，TEC开头的才是西校区的。  整个过程你会收到很多邮件，最后打印完成时会收到邮件提示。TEC楼在Bostock图书馆和Duke Card Office中间，如图(3).
-  ~~ THE END ~~
-</content>
+打印   打开Duke的3D打印网站，点击左上角Sign In，选择SSO，选择Duke University，然后使用你的Duke NetID登录。
+  初次登录进去，会弹出一个上传文件的框，你可以直接上传文件，也可以稍后上传。当你想上传文件时，推荐选择Project，而不是file。
+  在My Project页面，右侧点击Add Files，选择Project，然后输入一个项目名字，比如test，然后点choose file，上传你的.stl文件，比如test.stl。如图(1)。
+  上传完毕后，点开test这个项目，这是里面有一个test.stl文件。后面的都是重点：
+  先点击test.stl文件最右边的三个点的按钮，选择弹出页面中的第一个：“STL Editor”，这就打开了.stl文件的编辑器。可以对模型进行调整，以适应打印。
+  在STL Editor中，可以用右键旋转观察角度，按住滚轮移动模型。Editor左上角有Move、Rotate、Scale三个选项，可以旋转、缩放。记住两点：
+ 打印机的尺寸大概为20x20x20cm，一定要查看文件的Scale是不是符合 不管什么操作后，保存之前一定要点一下右下角的On Bed,这是为了确保模型贴在平面上，不能悬空。    所有操作结束后就点Save。   保存之后等待一会，你会发现test项目里多了一个类似叫test_123456.stl的文件，这个就是你修改过的文件，然后点击这个test_123456.stl文件最右边的Slice，弹出的界面里三个参数可以不调，直接点Slice。
+  等待一会，你会发现test项目里又多了一个test_123456.gcode文件，这个就是真正用来打印的文件。点击test_123456.gcode文件最右边的Print按钮，在弹出的打印机列表里选择可以打印的打印机就可以了。如图(2)。
+记住： &#43; 打印之前最好先点一下“Live View”，确认打印机上是空的。 &#43; Lily开头的是东校区的，TEC开头的才是西校区的。
+  整个过程你会收到很多邮件，最后打印完成时会收到邮件提示。TEC楼在Bostock图书馆和Duke Card Office中间，如图(3).
+  </content>
     </entry>
     
      <entry>
@@ -156,7 +155,7 @@ Duke打印机使用的模型文件扩展名为 .stl，可以直接谷歌 “3d p
         <tags>
           
         </tags>
-        <content type="html">  New President! 今天是杜克第10任校长Vincent E. Price的就职典礼， 本来觉得和我没什么关系，但是晚上有自助晚宴，吃得很舒服，于是就觉得和我有那么一点关系了。
+        <content type="html"> New President! 今天是杜克第10任校长Vincent E. Price的就职典礼， 本来觉得和我没什么关系，但是晚上有自助晚宴，吃得很舒服，于是就觉得和我有那么一点关系了。
 先占个坑，以后慢慢写。
 -20171014更新-
 不写了，坑不填了。
@@ -172,7 +171,7 @@ Duke打印机使用的模型文件扩展名为 .stl，可以直接谷歌 “3d p
         <tags>
           
         </tags>
-        <content type="html">  中秋快乐！ 这是在美国过的国庆和中秋。在国内的中秋并没有想起来吃旁海，现在在国外突然想吃，甚至超过月饼。可能是旁海比月饼贵吧。
+        <content type="html"> 中秋快乐！ 这是在美国过的国庆和中秋。在国内的中秋并没有想起来吃旁海，现在在国外突然想吃，甚至超过月饼。可能是旁海比月饼贵吧。
 </content>
     </entry>
     
@@ -187,14 +186,13 @@ Duke打印机使用的模型文件扩展名为 .stl，可以直接谷歌 “3d p
         </tags>
         <content type="html"> 第一篇: 测试2 在雨橙柠大佬的带带我下，我了解了hexo。这是我的第一篇hexo博客，我也不知道写啥。
 如何使用github&#43;hexo搭建博客：简书文章1、简书文章2、CSDN文章。
-什么是LF和CRLF? 
+什么是LF和CRLF?
 记录遇到的坑和解决办法： 查看hexo各插件： npm ls --depth 0，然后依次安装缺失的插件。
 贴图： 在source下新建一个figure文件夹，这样hexo g &amp;amp;&amp;amp; hexo d的时候就会把它移动到public目录。插图时只要插/figure/xxx即可。
 设置tags： hexo n page tags 然后修改source/tags/index.md为：
 title: tags date: xxxx-xx-xx xx:xx:xx type: &amp;#34;tags&amp;#34; comments: false 配置_config.yml： 站点配置文件：设置language和themes。 主题配置文件：设置menu和scheme(for NexT)。
-设置archive/archives：  在站点配置文件里添加：
-archive_generator: per_page: 10 yearly: true monthly: true daily: false order_by: -date 在主题配置文件里面修改archive或archives的顺序。
-  测试放图 图片: -- </content>
+设置archive/archives：  在站点配置文件里添加：  archive_generator: per_page: 10 yearly: true monthly: true daily: false order_by: -date  在主题配置文件里面修改archive或archives的顺序。  测试放图 图片:
+</content>
     </entry>
     
 </search>

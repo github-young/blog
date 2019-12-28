@@ -12,7 +12,7 @@
     <meta property="og:image" content="/img/author.jpg"> 
     <meta name="title" content="3DPrintAtDuke - Young&#39;s Blog" />
     <meta name="description" content=""> 
-    
+    <link rel="alternate" href="https://github-young.github.io/blog/post/3DPrintAtDuke/" title="Young&#39;s Blog" type="application/rss+xml" />
     
     <link rel="shortcut icon" href="https://github-young.github.io/blog/img/github.ico" />
     <link rel="apple-touch-icon" href="https://github-young.github.io/blog/img/github.png" />
@@ -168,60 +168,56 @@
       </div>
     </header>
     <div class="post-body" itemprop="articleBody">
-    <h2 id="简介如何使用duke的3d打印系统">简介如何使用Duke的3D打印系统</h2>
-
+    <h2 id="duke3d">简介如何使用Duke的3D打印系统</h2>
 <p>3D打印需要模型和打印机，Duke为我们提供了免费的打印机时和打印材料，我们需要提供模型。</p>
-
-<h3 id="模型">模型</h3>
-
+<h3 id="heading">模型</h3>
 <p>可以自己制作模型，也可以下载别人做好的模型。自己制作模型可以选择Google的SketchUp，简单易于上手；而ECE230L的Lab section是要求用AutoCAD，不过课上TA会教你使用(真是step by step)。若不想自己做，就可以直接用现成的。</p>
-
-<p>Duke打印机使用的模型文件扩展名为 <strong>.stl</strong>，可以直接谷歌 “3d print model” + 你要的模型名字，比如 “Rick and Morty 3d print model”；也可以到一些专门的3d模型网站，如<a href="http://www.yeggi.com">yeggi</a>、<a href="https://www.thingiverse.com">thingiverse</a>搜索。找到以后下载.stl文件。</p>
-
-<h3 id="打印">打印</h3>
-
+<p>Duke打印机使用的模型文件扩展名为 <strong>.stl</strong>，可以直接谷歌 “3d print model” + 你要的模型名字，比如 “Rick and Morty 3d print model”；也可以到一些专门的3d模型网站，如<!-- raw HTML omitted -->yeggi<!-- raw HTML omitted -->、<!-- raw HTML omitted -->thingiverse<!-- raw HTML omitted -->搜索。找到以后下载.stl文件。</p>
+<h3 id="heading1">打印</h3>
 <ol>
-<li><p>打开<a href="https://www.3dprinteros.com">Duke的3D打印网站</a>，点击左上角<strong>Sign In</strong>，选择<strong>SSO</strong>，选择Duke University，然后使用你的Duke NetID登录。</p></li>
-
-<li><p>初次登录进去，会弹出一个上传文件的框，你可以直接上传文件，也可以稍后上传。当你想上传文件时，推荐选择<strong>Project</strong>，而不是file。</p></li>
-
-<li><p>在<strong>My Project</strong>页面，右侧点击<strong>Add Files</strong>，选择<strong>Project</strong>，然后输入一个项目名字，比如test，然后点<strong>choose file</strong>，上传你的.stl文件，比如test.stl。如图(1)。</p>
-
-<p><img src="https://github-young.github.io/blog/fig/fig1.jpg" alt="fig1" /></p></li>
-
-<li><p>上传完毕后，点开test这个项目，这是里面有一个test.stl文件。<strong>后面的都是重点：</strong></p>
-
-<ol>
-<li>先点击test.stl文件最右边的三个点的按钮，选择弹出页面中的第一个：“STL Editor”，这就打开了.stl文件的编辑器。可以对模型进行调整，以适应打印。</li>
-<li>在STL Editor中，可以用右键旋转观察角度，按住滚轮移动模型。Editor左上角有Move、Rotate、Scale三个选项，可以旋转、缩放。记住两点：
-
+<li>
+<p>打开<a href="https://www.3dprinteros.com">Duke的3D打印网站</a>，点击左上角<strong>Sign In</strong>，选择<strong>SSO</strong>，选择Duke University，然后使用你的Duke NetID登录。</p>
+</li>
+<li>
+<p>初次登录进去，会弹出一个上传文件的框，你可以直接上传文件，也可以稍后上传。当你想上传文件时，推荐选择<strong>Project</strong>，而不是file。</p>
+</li>
+<li>
+<p>在<strong>My Project</strong>页面，右侧点击<strong>Add Files</strong>，选择<strong>Project</strong>，然后输入一个项目名字，比如test，然后点<strong>choose file</strong>，上传你的.stl文件，比如test.stl。如图(1)。</p>
+<p><img src="https://github-young.github.io/blog/fig/fig1.jpg" alt="fig1"></p>
+</li>
+<li>
+<p>上传完毕后，点开test这个项目，这是里面有一个test.stl文件。<strong>后面的都是重点：</strong></p>
+</li>
+<li>
+<p>先点击test.stl文件最右边的三个点的按钮，选择弹出页面中的第一个：“STL Editor”，这就打开了.stl文件的编辑器。可以对模型进行调整，以适应打印。</p>
+</li>
+<li>
+<p>在STL Editor中，可以用右键旋转观察角度，按住滚轮移动模型。Editor左上角有Move、Rotate、Scale三个选项，可以旋转、缩放。记住两点：</p>
 <ul>
 <li>打印机的<strong>尺寸</strong>大概为20x20x20cm，一定要查看文件的Scale是不是符合</li>
 <li>不管什么操作后，<strong>保存之前</strong>一定要点一下右下角的<strong>On Bed</strong>,这是为了确保模型贴在平面上，不能悬空。</li>
-</ul></li>
+</ul>
+</li>
 </ol>
-
-<p>所有操作结束后就点Save。</p></li>
-
-<li><p>保存之后等待一会，你会发现test项目里多了一个类似叫test_123456.stl的文件，这个就是你修改过的文件，然后点击这个test_123456.stl文件最右边的<strong>Slice</strong>，弹出的界面里三个参数可以不调，直接点Slice。</p></li>
-
-<li><p>等待一会，你会发现test项目里又多了一个test_123456.gcode文件，这个就是真正用来打印的文件。点击test_123456.gcode文件最右边的Print按钮，在弹出的打印机列表里选择可以打印的打印机就可以了。如图(2)。</p>
-
-<p><img src="https://github-young.github.io/blog/fig/fig2.jpg" alt="fig2" /></p>
-
-<p>记住：</p>
-
-<ul>
-<li>打印之前最好先点一下“Live View”，确认打印机上是空的。</li>
-<li>Lily开头的是东校区的，<strong>TEC</strong>开头的才是西校区的。</li>
-</ul></li>
-
-<li><p>整个过程你会收到很多邮件，最后打印完成时会收到邮件提示。TEC楼在Bostock图书馆和Duke Card Office中间，如图(3).</p>
-
-<p><img src="https://github-young.github.io/blog/fig/map.jpg" alt="fig3" /></p></li>
+<pre><code>所有操作结束后就点Save。
+</code></pre>
+<ol start="5">
+<li>
+<p>保存之后等待一会，你会发现test项目里多了一个类似叫test_123456.stl的文件，这个就是你修改过的文件，然后点击这个test_123456.stl文件最右边的<strong>Slice</strong>，弹出的界面里三个参数可以不调，直接点Slice。</p>
+</li>
+<li>
+<p>等待一会，你会发现test项目里又多了一个test_123456.gcode文件，这个就是真正用来打印的文件。点击test_123456.gcode文件最右边的Print按钮，在弹出的打印机列表里选择可以打印的打印机就可以了。如图(2)。</p>
+<p><img src="https://github-young.github.io/blog/fig/fig2.jpg" alt="fig2"></p>
+<p>记住：
++ 打印之前最好先点一下“Live View”，确认打印机上是空的。
++ Lily开头的是东校区的，<strong>TEC</strong>开头的才是西校区的。</p>
+</li>
+<li>
+<p>整个过程你会收到很多邮件，最后打印完成时会收到邮件提示。TEC楼在Bostock图书馆和Duke Card Office中间，如图(3).</p>
+<p><img src="https://github-young.github.io/blog/fig/map.jpg" alt="fig3"></p>
+</li>
 </ol>
-
-<p style="text-align: center">~~ THE END ~~</p>
+<!-- raw HTML omitted -->
     </div>
     <footer class="post-footer">
      
@@ -287,6 +283,10 @@
     <section class="site-overview sidebar-panel ">
       <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
     
+    <img class="site-author-image" itemprop="image"
+        src="https://github-young.github.io/blog/img/author.jpg"
+        alt="Young" />
+    
     <p class="site-author-name" itemprop="name">Young</p>
     <p class="site-description motion-element" itemprop="description"> </p>
 </div>
@@ -319,6 +319,14 @@
 </nav>
 
       
+<div class="feed-link motion-element">
+        
+        <a href= rel="alternate" type="application/rss+xml" target="_blank">
+    <i class="fa fa-rss"></i>
+    RSS 订阅
+</a>
+</div>
+
 
       
 <div class="links-of-author motion-element">
@@ -332,23 +340,23 @@
     
 </div>
 
+
       
+
       
     </section>
     
 <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
     <div class="post-toc">
         <div class="post-toc-content"><nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#简介如何使用duke的3d打印系统">简介如何使用Duke的3D打印系统</a>
-<ul>
-<li><a href="#模型">模型</a></li>
-<li><a href="#打印">打印</a></li>
-</ul></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#duke3d">简介如何使用Duke的3D打印系统</a>
+      <ul>
+        <li><a href="#heading">模型</a></li>
+        <li><a href="#heading1">打印</a></li>
+      </ul>
+    </li>
+  </ul>
 </nav></div>
     </div>
 </section>
@@ -368,10 +376,10 @@
   <span class="author" itemprop="copyrightHolder">Young</span>
 </div>
 <div class="powered-by">
-  Powered by - <a class="theme-link" href="http://gohugo.io" target="_blank" title="hugo" >Hugo v0.57.2</a>
+  Powered by - <a class="theme-link" href="http://gohugo.io" target="_blank" title="hugo" >Hugo v0.60.1</a>
 </div>
 <div class="theme-info">
-  Theme by - <a class="theme-link" href="https://github.com/github-young/hugo-theme-next" target="_blank"> NexT
+  Theme by - <a class="theme-link" href="https://github.com/github-young/hugo-theme-next" target="_blank"> NexT.Gemini
   </a>
 </div>
 <br />
