@@ -176,7 +176,7 @@ Duke打印机使用的模型文件扩展名为 .stl，可以直接谷歌 “3d p
     </entry>
     
      <entry>
-        <title>测试1</title>
+        <title>测试</title>
         <url>https://github-young.github.io/blog/post/test/</url>
         <categories>
           <category>Tech</category>
@@ -184,7 +184,7 @@ Duke打印机使用的模型文件扩展名为 .stl，可以直接谷歌 “3d p
         <tags>
           <tag>test</tag>
         </tags>
-        <content type="html"> 第一篇: 测试2 在雨橙柠大佬的带带我下，我了解了hexo。这是我的第一篇hexo博客，我也不知道写啥。
+        <content type="html"> 第一篇: 测试 在雨橙柠大佬的带带我下，我了解了hexo。这是我的第一篇hexo博客，我也不知道写啥。
 如何使用github&#43;hexo搭建博客：简书文章1、简书文章2、CSDN文章。
 什么是LF和CRLF?
 记录遇到的坑和解决办法： 查看hexo各插件： npm ls --depth 0，然后依次安装缺失的插件。
