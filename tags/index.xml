@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Young&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Jan 2019 14:49:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 21:02:14 +0800</lastBuildDate>
     
 	<atom:link href="https://github-young.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>标签1</title>
+      <link>https://github-young.github.io/blog/tags/%E6%A0%87%E7%AD%BE1/</link>
+      <pubDate>Thu, 09 Jan 2020 21:02:14 +0800</pubDate>
+      
+      <guid>https://github-young.github.io/blog/tags/%E6%A0%87%E7%AD%BE1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>标签2</title>
+      <link>https://github-young.github.io/blog/tags/%E6%A0%87%E7%AD%BE2/</link>
+      <pubDate>Thu, 09 Jan 2020 21:02:14 +0800</pubDate>
+      
+      <guid>https://github-young.github.io/blog/tags/%E6%A0%87%E7%AD%BE2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deepin</title>
@@ -39,11 +57,11 @@
     </item>
     
     <item>
-      <title>annual</title>
-      <link>https://github-young.github.io/blog/tags/annual/</link>
+      <title>Annual</title>
+      <link>https://github-young.github.io/blog/tags/Annual/</link>
       <pubDate>Tue, 01 Jan 2019 23:10:18 +0000</pubDate>
       
-      <guid>https://github-young.github.io/blog/tags/annual/</guid>
+      <guid>https://github-young.github.io/blog/tags/Annual/</guid>
       <description></description>
     </item>
     

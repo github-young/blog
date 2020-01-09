@@ -1,6 +1,23 @@
 <search>
     
      <entry>
+        <title>ClipDict: Clipboard Dictionary</title>
+        <url>https://github-young.github.io/blog/post/ClipDict/</url>
+        <categories>
+          <category>分类名</category>
+        </categories>
+        <tags>
+          <tag>标签1</tag><tag>标签2</tag>
+        </tags>
+        <content type="html"> ClipDict &amp;ndash; 从剪贴板取词的命令行字典。
+演示 使用 下载 ClipDict 到本地，运行它即可：./ClipDict.sh。
+ClipDict 只是一个shell脚本，它依赖如下两个软件：
+ xclip dictd  请先安装它们：
+1  sudo pacman -S xclip dictd   注意：dictd只是一个字典软件，不自带词典。需要自己下载和配置本地中文词典。示例使用的是朗道中英文词典(langdao-ec)。【详情待补充】
+</content>
+    </entry>
+    
+     <entry>
         <title>Posts</title>
         <url>https://github-young.github.io/blog/post/</url>
         <categories>
@@ -27,6 +44,7 @@
 当然，问题总是有的。我发现我在win10和ubuntu1804上使用正常的 Fn&#43;左右方向键 在这里就不行，但是其它的 Fn&#43;功能键 是可以的。最终没能完美解决，我把 Caps_Lock&#43;方向键 映射成了 Home 和 End 。另外，在别的系统可以校园网接网线直接访问谷歌，这里也不行，折腾了两天，最后发现换成tuna的dns就解决了。
 总结 在Linux的范围里，从生产的角度，deepin不一定是最好的，但是从生活的角度，对于中国人我觉得是最好的。我准备放假给父母试用一下。
  后记 回家给父母试了，以没有Office被一票否决，1551&amp;hellip;
+后后记 Manjaro&#43;DDE 天下第一！
 </content>
     </entry>
     
@@ -37,11 +55,11 @@
           <category>Life</category>
         </categories>
         <tags>
-          <tag>annual</tag><tag>2018</tag>
+          <tag>Annual</tag><tag>2018</tag>
         </tags>
         <content type="html"> 2018年过去了，我也很怀念它。
 TL; DR 这一年简单来讲可以概括为：
-mylife checkout -b 保研 mylife checkout -b 申请 mylife merge 保研 mylife add . mylife commit -m &amp;#34;纠结但精彩的一年&amp;#34; 说详细点 本来打了一堆话，看着觉得有点消极，算了&amp;hellip;
+1 2 3 4 5  mylife checkout -b 保研 mylife checkout -b 申请 mylife merge 保研 mylife add . mylife commit -m &amp;#34;纠结但精彩的一年&amp;#34;   说详细点 本来打了一堆话，看着觉得有点消极，算了&amp;hellip;
 保研也好，申请也好，哪怕是父母之命的公务员也好，都过去了。回头看看这些经历挺有趣的，人生就是充满不确定性才有意思，相比之下我之前的生活太千篇一律了。
 还有了一次 幽默的短暂的初恋，是这一年的生活最大的亮点了吧。虽然幽默，但是我因此改变不少呢。展望 我在开学初列了一个Senior Year Resolution，除了脱单，列表上的其它items希望在毕业前一一实现。
 由于早睡压制，不得不push。
@@ -83,7 +101,7 @@ PS. 建议不管出国还是保研都要套磁。2018年叉院的名额非常少
     </entry>
     
      <entry>
-        <title>DukeMemory</title>
+        <title>Duke Memory</title>
         <url>https://github-young.github.io/blog/post/DukeMemory/</url>
         <categories>
           <category>Duke</category>
@@ -103,12 +121,12 @@ PS：在没办当地银行卡前，确实可以先用国内办的VISA卡用，�
 基本上去Target买了各种生活用品，但有几个坑注意一下：台灯和电热水壶完全没必要买。我一开始到美国面对没有热水的生活确实不放心，结果买了热水壶就没用过(相信我，你们很快就能习惯早起喝一大口冷水的生活)。洗衣液都是2L这样的大桶，建议一栋楼的几个人一起买共用，我到学期末连三分之一都没用完。其它的东西自己到那应该心里有点数的。
 Target旁边就是黎明电推华人超市，可以买到看上去十分亲切的东西(没找到辣条)。基本上我们把它当做菜市场，买肉买菜买铁锅等等。
 关于不务正业(8~12月) Duke宿舍里的commons room真是比南大不知道高到哪里去好太多了。这就是表白墙常见的“可以大声讲话、自由活动、又不影响别人的封闭室内空间”。
-Duke给每个学生提供了3D打印的资源，大家可以薅资本主义的羊毛提高动手能力。我看到陈列区有人打印了Pickle Rick和刺客信条里的袖剑。关于3D打印的使用方法，可以看我的另一篇文章
+Duke给每个学生提供了3D打印的资源，大家可以薅资本主义的羊毛提高动手能力。我看到陈列区有人打印了Pickle Rick和刺客信条里的袖剑。关于3D打印的使用方法，可以看我的另一篇文章。
 </content>
     </entry>
     
      <entry>
-        <title>3DPrintAtDuke</title>
+        <title>3D Print At Duke</title>
         <url>https://github-young.github.io/blog/post/3DPrintAtDuke/</url>
         <categories>
           <category>Duke</category>
@@ -118,18 +136,20 @@ Duke给每个学生提供了3D打印的资源，大家可以薅资本主义的�
         </tags>
         <content type="html"> 简介如何使用Duke的3D打印系统 3D打印需要模型和打印机，Duke为我们提供了免费的打印机时和打印材料，我们需要提供模型。
 模型 可以自己制作模型，也可以下载别人做好的模型。自己制作模型可以选择Google的SketchUp，简单易于上手；而ECE230L的Lab section是要求用AutoCAD，不过课上TA会教你使用(真是step by step)。若不想自己做，就可以直接用现成的。
-Duke打印机使用的模型文件扩展名为 .stl，可以直接谷歌 “3d print model” &#43; 你要的模型名字，比如 “Rick and Morty 3d print model”；也可以到一些专门的3d模型网站，如yeggi、thingiverse搜索。找到以后下载.stl文件。
+Duke打印机使用的模型文件扩展名为 .stl，可以直接Google “3d print model” &#43; 你要的模型名字，比如 “Rick and Morty 3d print model”；也可以到一些专门的3d模型网站，如yeggi、thingiverse搜索。找到以后下载.stl文件。
 打印   打开Duke的3D打印网站，点击左上角Sign In，选择SSO，选择Duke University，然后使用你的Duke NetID登录。
   初次登录进去，会弹出一个上传文件的框，你可以直接上传文件，也可以稍后上传。当你想上传文件时，推荐选择Project，而不是file。
   在My Project页面，右侧点击Add Files，选择Project，然后输入一个项目名字，比如test，然后点choose file，上传你的.stl文件，比如test.stl。如图(1)。
   上传完毕后，点开test这个项目，这是里面有一个test.stl文件。后面的都是重点：
   先点击test.stl文件最右边的三个点的按钮，选择弹出页面中的第一个：“STL Editor”，这就打开了.stl文件的编辑器。可以对模型进行调整，以适应打印。
   在STL Editor中，可以用右键旋转观察角度，按住滚轮移动模型。Editor左上角有Move、Rotate、Scale三个选项，可以旋转、缩放。记住两点：
- 打印机的尺寸大概为20x20x20cm，一定要查看文件的Scale是不是符合 不管什么操作后，保存之前一定要点一下右下角的On Bed,这是为了确保模型贴在平面上，不能悬空。    所有操作结束后就点Save。   保存之后等待一会，你会发现test项目里多了一个类似叫test_123456.stl的文件，这个就是你修改过的文件，然后点击这个test_123456.stl文件最右边的Slice，弹出的界面里三个参数可以不调，直接点Slice。
+ 打印机的尺寸大概为20x20x20cm，一定要查看文件的Scale是不是符合 不管什么操作后，保存之前一定要点一下右下角的On Bed,这是为了确保模型贴在平面上，不能悬空。    所有操作结束后就点Save。
+ 保存之后等待一会，你会发现test项目里多了一个类似叫test_123456.stl的文件，这个就是你修改过的文件，然后点击这个test_123456.stl文件最右边的Slice，弹出的界面里三个参数可以不调，直接点Slice。
   等待一会，你会发现test项目里又多了一个test_123456.gcode文件，这个就是真正用来打印的文件。点击test_123456.gcode文件最右边的Print按钮，在弹出的打印机列表里选择可以打印的打印机就可以了。如图(2)。
 记住： &#43; 打印之前最好先点一下“Live View”，确认打印机上是空的。 &#43; Lily开头的是东校区的，TEC开头的才是西校区的。
   整个过程你会收到很多邮件，最后打印完成时会收到邮件提示。TEC楼在Bostock图书馆和Duke Card Office中间，如图(3).
-  </content>
+  ~~ THE END ~~
+</content>
     </entry>
     
      <entry>
@@ -190,7 +210,7 @@ Duke打印机使用的模型文件扩展名为 .stl，可以直接谷歌 “3d p
 记录遇到的坑和解决办法： 查看hexo各插件： npm ls --depth 0，然后依次安装缺失的插件。
 贴图： 在source下新建一个figure文件夹，这样hexo g &amp;amp;&amp;amp; hexo d的时候就会把它移动到public目录。插图时只要插/figure/xxx即可。
 设置tags： hexo n page tags 然后修改source/tags/index.md为：
-title: tags date: xxxx-xx-xx xx:xx:xx type: &amp;#34;tags&amp;#34; comments: false 配置_config.yml： 站点配置文件：设置language和themes。 主题配置文件：设置menu和scheme(for NexT)。
+1 2 3 4  title: tags date: xxxx-xx-xx xx:xx:xx type: &amp;#34;tags&amp;#34; comments: false   配置_config.yml： 站点配置文件：设置language和themes。 主题配置文件：设置menu和scheme(for NexT)。
 设置archive/archives：  在站点配置文件里添加：  archive_generator: per_page: 10 yearly: true monthly: true daily: false order_by: -date  在主题配置文件里面修改archive或archives的顺序。  测试放图 图片:
 </content>
     </entry>
