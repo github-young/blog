@@ -4,10 +4,10 @@
         <title>ClipDict: Clipboard Dictionary</title>
         <url>https://github-young.github.io/blog/post/ClipDict/</url>
         <categories>
-          <category>分类名</category>
+          <category>Tech</category>
         </categories>
         <tags>
-          <tag>标签1</tag><tag>标签2</tag>
+          <tag>Linux</tag>
         </tags>
         <content type="html"> ClipDict &amp;ndash; 从剪贴板取词的命令行字典。
 演示 使用 下载 ClipDict 到本地，运行它即可：./ClipDict.sh。

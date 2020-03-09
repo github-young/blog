@@ -6,7 +6,7 @@
     <description>Recent content on Young&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 Jan 2020 21:02:14 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://github-young.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -62,7 +62,7 @@
       <pubDate>Fri, 10 Nov 2017 21:45:00 +0000</pubDate>
       
       <guid>https://github-young.github.io/blog/post/3DPrintAtDuke/</guid>
-      <description>&lt;h2 id=&#34;duke3d&#34;&gt;简介如何使用Duke的3D打印系统&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;简介如何使用duke的3d打印系统&#34;&gt;简介如何使用Duke的3D打印系统&lt;/h2&gt;
 &lt;p&gt;3D打印需要模型和打印机，Duke为我们提供了免费的打印机时和打印材料，我们需要提供模型。&lt;/p&gt;</description>
     </item>
     
@@ -99,7 +99,7 @@
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://github-young.github.io/blog/post/test/</guid>
-      <description>&lt;h2 id=&#34;-&#34;&gt;第一篇: 测试&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;第一篇-测试&#34;&gt;第一篇: 测试&lt;/h2&gt;
 &lt;p&gt;在雨橙柠大佬的带带我下，我了解了hexo。这是我的第一篇hexo博客，我也不知道写啥。&lt;/p&gt;
 &lt;p&gt;如何使用github+hexo搭建博客：&lt;a href=&#34;https://www.jianshu.com/p/465830080ea9&#34;&gt;简书文章1&lt;/a&gt;、&lt;a href=&#34;https://www.jianshu.com/p/5d5931289c09&#34;&gt;简书文章2&lt;/a&gt;、&lt;a href=&#34;https://blog.csdn.net/u011148116/article/details/52274773&#34;&gt;CSDN文章&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.cuixinjiang.cn/wzzhizuo/784.html&#34;&gt;什么是LF和CRLF?&lt;/a&gt;&lt;/p&gt;
