@@ -10,10 +10,11 @@
           <tag>Linux</tag>
         </tags>
         <content type="html"> ClipDict &amp;ndash; 从剪贴板取词的命令行字典。
-演示 使用 下载 ClipDict 到本地，运行它即可：./ClipDict.sh。
-ClipDict 只是一个shell脚本，它依赖如下两个软件：
- xclip dictd  请先安装它们：
-1  sudo pacman -S xclip dictd   注意：dictd只是一个字典软件，不自带词典。需要自己下载和配置本地中文词典。示例使用的是朗道中英文词典(langdao-ec)。【详情待补充】
+演示 使用 在确保依赖软件安装好后，下载 ClipDict 到本地，运行它即可：./ClipDict.sh。
+配置依赖软件 ClipDict 只是一个shell脚本，它依赖如下两个软件：
+ xclip (获取剪贴板内容) dictd (后台查词软件)  请先安装它们：
+1  sudo pacman -S xclip dictd   注意：dictd只是一个字典软件，不自带词典。需要自己下载和配置本地词典。示例使用的是朗道中英文词典(langdao-ec)，可以在这里下载，当然你也可以根据需要下载其它词典。【详情待补充】
+下载完成后的配置可以参考这里的第38点。
 </content>
     </entry>
     
