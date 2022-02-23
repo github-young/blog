@@ -6,11 +6,7 @@
     <description>Recent content in Categories on Young&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 Jan 2020 21:02:14 +0800</lastBuildDate>
-    
-	<atom:link href="https://github-young.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 09 Jan 2020 21:02:14 +0800</lastBuildDate><atom:link href="https://github-young.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
       <link>https://github-young.github.io/blog/categories/Tech/</link>
